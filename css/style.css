@@ -1,1 +1,20 @@
 /*stylesheet*/
+
+
+
+h1{font-size: 48px;
+	margin: 2rem;
+}
+
+a:image;{size: 500px;}
+
+a:hover; {font-family: georgia;
+ color: lightpink;
+ font-weight: bold;
+text-decoration: underline;
+}
+
+#site-title{text-align: center;
+margin-bottom: 2 rem;
+font-size: 64px;
+}
