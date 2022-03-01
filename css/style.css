@@ -180,7 +180,12 @@ h1, h2 {
 
 .page-item p a {
   color: var(--body-color);
-  text-decoration-color: var(--body-color); 
+  text-decoration: underline;
+}
+
+.page-item p a:hover {
+  color: var(--body-color);
+  color: lightpink;
 }
 
 
